@@ -6,11 +6,10 @@ function App() {
   return (
     <>
       {/* <NavBar title="TextUtils2" aboutText="About TextUtils"  /> */}
+      {/* <NavBar  /> */}
 
+      <NavBar title="TextUtils2"  />
 
-      <NavBar  />
-
-      
     </>
 
   
